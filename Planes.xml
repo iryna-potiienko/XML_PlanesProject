@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Plane>
+  <flight 
+    Price ="4000"
+    Departure="Ukraine"
+    Arrival="Rumynia"
+    Date="10.04.2020"
+    Duration="2"
+    Airline="Wind Rose Aviation"
+    IncludeLunch="NO"
+    TourOperator="JoinUp"
+    ></flight>
+  <flight
+   Price="5000"
+   Departure="Ukraine"
+   Arrival="France"
+   Date="05.02.2020"
+   Duration="4"
+   Airline="UIA"
+   IncludeLunch="NO"
+   TourOperator="TEZtour"></flight>
+  <flight
+   Price="3000"
+   Departure="France"
+   Arrival="Ukraine"
+   Date="15.02.2020"
+   Duration="4"
+   Airline="RSA"
+   IncludeLunch="NO"
+   TourOperator="TEZtour"></flight>
+  <flight
+   Price="3000"
+   Departure="Turkey"
+   Arrival="Ukraine"
+   Date="24.04.2020"
+   Duration="3"
+   Airline="Pegasus"
+   IncludeLunch="NO"
+   TourOperator="TUI"></flight>
+  <flight
+   Price="5000"
+   Departure="Ukraine"
+   Arrival="Israel"
+   Date="30.11.2019"
+   Duration="4"
+   Airline="UIA"
+   IncludeLunch="YES"
+   TourOperator="TUI"></flight>
+  <flight
+   Price="9000"
+   Departure="Ukraine"
+   Arrival="Great Britain"
+   Date="30.09.2020"
+   Duration="4"
+   Airline="UIA"
+   IncludeLunch="NO"
+   TourOperator="Pegas"></flight>
+  <flight
+   Price="3000"
+   Departure="Germany"
+   Arrival="Ukraine"
+   Date="15.05.2020"
+   Duration="4"
+   Airline="RYANAIR"
+   IncludeLunch="YES"
+   TourOperator="JoinUp"></flight>
+</Plane>
